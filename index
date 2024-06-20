@@ -36,9 +36,6 @@ https://live.notebulk.xyz/TsTVC6QC56ovk4mX4WmfNw/1718865920/uk_premiersports2/in
 #EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png" group-title="Esportes",Sky Sports Football UK
 https://live.notebulk.xyz/OO3AJD9KKHtwPi-9GUX9wg/1718865988/uk_ssfb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png" group-title="Esportes",Sky Sports Football UK
-https://live.notebulk.xyz/OO3AJD9KKHtwPi-9GUX9wg/1718865988/uk_ssfb/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="Esportes",Sky Sports EPL UK
 https://nllive.score806.cc/uk_ssepl/index.m3u8
 
@@ -64,7 +61,16 @@ https://live.notebulk.xyz/DxU9_w2KhPw8TmCdQvF6sQ/1718867091/fr_rmcsport2/index.m
 https://live.notebulk.xyz/MUxvkdgtA-pU-fbRnFqAZQ/1718867244/pt_sporttv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Esportes",Sport TV 2 PT
-https://live.notebulk.xyz/MUxvkdgtA-pU-fbRnFqAZQ/1718867244/pt_sporttv2/index.m3u8
+https://live.notebulk.xyz/5Fjkg1X1VHJzpTzAf50OKw/1718867452/pt_sporttv2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Esportes",Sport TV 3 PT
-https://live.notebulk.xyz/MUxvkdgtA-pU-fbRnFqAZQ/1718867244/pt_sporttv3/index.m3u8
+https://live.notebulk.xyz/zm8YjCxbxiMAzM0Bjzz_AA/1718867502/pt_sporttv3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/idMNsLzI4G/id-b6rGSbY.jpeg" group-title="Esportes",Eleven Sports 1 PT
+https://live.notebulk.xyz/wFX9t_5R9xHvE0IcvWGZ5g/1718867706/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/idMNsLzI4G/id-b6rGSbY.jpeg" group-title="Esportes",Eleven Sports 2 PT
+https://live.notebulk.xyz/7DRQ0qxfPqrDmlmUaWjJHg/1718867850/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/idMNsLzI4G/id-b6rGSbY.jpeg" group-title="Esportes",Eleven Sports 3 PT
+https://m3u8us.qr-build.club/fz0pqARWdvnysyogIE98UA/1718867891/pt_elevensport3/index.m3u8
