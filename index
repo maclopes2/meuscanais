@@ -5,3 +5,6 @@ https://live.notebulk.xyz/ti7N20hMq3QoRFJ9MFIhUw/1718862936/us_fs1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/230px-FS2_logo_2015.svg.png" group-title="Esportes",FS 1 USA
 https://live.notebulk.xyz/L0CdIbvOw_5HyXmpdie5wg/1718863207/us_fs2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CBS_Sports_%282021%29.svg/220px-CBS_Sports_%282021%29.svg.png" group-title="Esportes",FS 1 USA
+https://live.notebulk.xyz/Kclf0v5QcdxJYiwtYn-t4A/1718864819/us_cbssportsnetwork/index.m3u8
