@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="Esportes",FS 1 USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/230px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",FS 1 USA
 https://live.notebulk.xyz/ti7N20hMq3QoRFJ9MFIhUw/1718862936/us_fs1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="Esportes",FS 1 USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/230px-FS2_logo_2015.svg.png" group-title="Esportes",FS 1 USA
 https://live.notebulk.xyz/L0CdIbvOw_5HyXmpdie5wg/1718863207/us_fs2/index.m3u8
