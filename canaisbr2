@@ -110,7 +110,6 @@ https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2632" name="Film & Arts" group="Canais Link 1" size="Small", Film & Arts
 https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
-
 #EXTINF:0 type="stream" channelId="2433" group="Canais Link 2" size="Small", SBT [Alter]
 http://45.235.0.78/SBT-HD/index.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="Canais Link 2" size="Small", Record [Alter]
@@ -243,3 +242,111 @@ http://45.235.0.78/NICK-HD/index.m3u8
 http://45.235.0.78/RECORDTV-HD/index.m3u8
 #EXTINF:0 type="stream" channelId="2581" group="Canais Link 2" size="Small", Gloob [Alter]
 http://45.235.0.78/GLOOB-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1326" group="Canais Link 1" size="Small", Cinemax
+https://brflu.walk-tv.com/5783/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="177" group="Canais Link 1" size="Small", Star Channel Hd
+https://brflu.walk-tv.com/5889/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="187" group="Canais Link 1" size="Small", Universal TV
+https://mycdn.delivery/universaltv/index.m3u8
+#EXTINF:0 type="stream" channelId="3229" group="Canais Link 1" size="Small", USA
+http://45.235.0.78/SYFY-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1192" group="Canais Link 1" size="Small", syfy HD
+https://brflu.walk-tv.com/5835/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2900" name="TNT HD" group="Canais Link 1" size="Small", TNT
+https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="2903" group="Canais Link 1" size="Small", Warner HD
+https://brflu.walk-tv.com/5882/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="2557" name="Warner Channel" group="Canais Link 1" size="Small", Warner Channel
+http://cdn-3.nxplay.com.br/WARNER_CHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="1719" group="Canais Link 1" size="Small", Paramount Channel
+https://brflu.walk-tv.com/5827/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="3770" name="ID HD" group="Canais Link 1" size="Small", Investigation Discovery HD
+https://cdn-3.nxplay.com.br/DISCOVERY_ID/index.m3u8
+#EXTINF:0 type="stream" channelId="2593" name="Prime box Brazil" group="Canais Link 1" size="Small", Prime box Brazil
+http://cdn-3.nxplay.com.br/PRIME_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1214" name="Sony Movies HD" group="Canais Link 1" size="Small", Sony Movies
+https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
+#EXTINF:0 type="stream" channelId="530" name="Canal Sony HD" group="Canais Link 1" size="Small", Canal Sony HD
+https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:0 type="stream" channelId="4226" name="SPTV" group="Canais Link 1" size="Small", SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="383" name="SPACE HD [Alter]" group="Canais Link 1" size="Small", Space
+https://cdn-3.nxplay.com.br/SPACE_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="2896" group="Canais Link 1" size="Small", Space HD
+https://brflu.walk-tv.com/5771/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2685" group="Canais Link 1" size="Small", TNT Serie HD
+https://brflu.walk-tv.com/5904/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="2686" name="TNT S�ries" group="Canais Link 1" logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" size="Small", TNT Series
+https://cdn-3.nxplay.com.br/TNT_SERIES_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="TNT NOVELAS" group="Canais Link 1" logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/640px-Logo_TNT_Novelas.png" size="Small", TNT Novelas
+http://cdn-3.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8?
+#EXTINF:0 type="stream" channelId="40" name="Cartoon Network" group="Canais Link 1" size="Small", Cartoon Network
+http://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="19" group="Canais Link 1" size="Small", Disney channel
+https://brflu.walk-tv.com/5787/tracks-v1a1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1305" group="Canais Link 1" size="Small", Cartoonito
+https://cdn-3.nxplay.com.br/CARTOONITO_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="334" group="Canais Link 1" size="Small", Nickelodeon HD
+https://brflu.walk-tv.com/5825/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2837" name="DISCOVERY KIDS HD" group="Canais Link 1" size="Small", DISCOVERY KIDS HD
+https://cdn-3.nxplay.com.br/DISCOVERY_KIDS_NX/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="2581" group="Canais Link 1" size="Small", GLOOB
+https://brflu.walk-tv.com/5812/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DREAM WORKS" group="Canais Link 1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png" size="Small", Dreamworks
+https://cdn-3.nxplay.com.br/DREAMWORKS/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Tooncast HD" group="Canais Link 1" logo="https://cittatelecom.com.br/sao-paulo/wp-content/uploads/sites/4/2022/02/tooncast.png" size="Small", Tooncast HD
+https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Canais Link 1" logo="https://ipgotv.net.br/tv/gcartoon/LOGO_GCARTOON1.png" size="Small", Gospel Cartoon
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6436
+#EXTINF:0 type="stream" channelId="2908" name="Zoomoo" group="Canais Link 1" size="Small", Zoomoo
+https://cdn-3.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="473" group="Canais Link 1" size="Small", BabyTV
+https://brflu.walk-tv.com/5766/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2614" name="TV RA TIM BUM" group="Canais Link 1" size="Small", Ra-Tim-Bum
+http://cdn-3.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8?
+#EXTINF:0 type="stream" channelId="2616" name="ViVA" group="Canais Link 1" size="Small", Viva Br
+https://brflu.walk-tv.com/5850/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2582" group="Canais Link 1" size="Small", GNT
+https://brflu.walk-tv.com/5813/index.m3u8
+#EXTINF:0 type="stream" channelId="3545" group="Canais Link 1" size="Small", TCM HD
+https://brflu.walk-tv.com/5837/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="895" group="Canais Link 1" size="Small", TCM
+http://cdn-3.nxplay.com.br/TCM_TK/index.m3u8?
+#EXTINF:0 type="stream" channelId="2590" group="Canais Link 1" size="Small", Multishow
+https://brflu.walk-tv.com/5822/index.m3u8
+#EXTINF:0 type="stream" channelId="1190" group="Canais Link 1" size="Small", Comedy Central
+https://brflu.walk-tv.com/5867/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2718" group="Canais Link 1" size="Small", BIS
+https://brflu.walk-tv.com/5794/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="1973" group="Canais Link 1" size="Small", MTV
+https://brflu.walk-tv.com/5821/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2576" group="Canais Link 1" size="Small", Canal Brasil
+https://brflu.walk-tv.com/5796/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2617" name="Woohoo Surf" group="Canais Link 1" logo="http://tv.mapfibra.com.br/logos_menu/WOOHOO.png" size="Small", Woohoo
+http://cdn-3.nxplay.com.br/WOOHOO_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="2573" name="Band News" group="Canais Link 1" size="Small", Band News
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="2575" group="Canais Link 1" size="Small", Band Sports HD
+https://brflu.walk-tv.com/5928/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="4647" group="Canais Link 1" size="Small", CNN
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="397" group="Canais Link 1" size="Small", NHK World
+https://brflu.walk-tv.com/5724/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="344" group="Canais Link 1" size="Small", ESPN 2
+https://brflu.walk-tv.com/5910/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="355" group="Canais Link 1" size="Small", ESPN 3
+https://brflu.walk-tv.com/5907/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="4657" group="Canais Link 1" size="Small", ESPN Extra
+https://brflu.walk-tv.com/34/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="2893" group="Canais Link 1" aspect-ratio="16:9" size="Small", Globo News HD
+https://brflu.walk-tv.com/5811/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="2596" group="Canais Link 1" size="Small", Premiere
+https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="2595" group="Canais Link 1" size="Small", COMBATE
+https://brflu.walk-tv.com/5865/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2599" group="Canais Link 1" size="Small", SporTV
+https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="2600" group="Canais Link 1" size="Small", SporTV 2
+https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="2601" group="Canais Link 1" size="Small", SporTV 3
+https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8?
