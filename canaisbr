@@ -57,7 +57,7 @@ http://45.235.0.78/HBOPLUS-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Documentários",History
 http://45.235.0.78/HISTORY-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",Prime Box
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Filmes",Prime Box
 http://45.235.0.78/PRIMEBOXBRASIL-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",Paramount
@@ -93,7 +93,7 @@ http://45.235.0.78/AMC-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Variedades",Multishow
 http://45.235.0.78/MULTISHOW-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Variedades",Viva
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png" group-title="Variedades",Viva
 http://45.235.0.78/VIVA-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes e Séries",Arte 1
