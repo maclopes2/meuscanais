@@ -2,3 +2,12 @@
 
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Notícias",Globonews
 http://45.235.0.78/GLOBONEWS-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-1-1.png" group-title="Esportes",Sportv 1
+http://45.235.0.78/SPORTV-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="Esportes",Sportv 2
+http://45.235.0.78/SPORTV2-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Esportes",Sportv 3
+http://45.235.0.78/SPORTV3-HD/index.m3u8
