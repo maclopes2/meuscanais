@@ -1,0 +1,245 @@
+#EXTM3U
+
+#EXTINF:0 type="stream" channelId="2467" group="Tv Aberta" size="Small", TV Cultura
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
+#EXTINF:0 type="stream" channelId="2569" group="Tv Aberta" size="Small", Canal educão
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4567
+#EXTINF:0 type="stream" channelId="-1" group="Tv Aberta" logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/Logo_univesp.png" size="Small", UniveSPTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4572
+#EXTINF:0 type="stream" channelId="2433" name="SBT" group="Tv Aberta" size="Small", SBT
+https://brflu.walk-tv.com/5736/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="2432" name="Globo" group="Tv Aberta" size="Small", Globo
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="1031" name="RecordTV" group="Tv Aberta" size="Small", RecordTV
+http://embedflix.net/canal/live.php?ch=4
+#EXTINF:0 type="stream" channelId="2456" group="Tv Aberta" size="Small", Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4588
+#EXTINF:0 type="stream" channelId="2435" name="RedeTV!" group="Tv Aberta" size="Small", RedeTV!
+https://brflu.walk-tv.com/5738/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="2438" group="Tv Aberta" size="Small", Rede Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4582
+#EXTINF:0 type="stream" channelId="2438" group="Tv Aberta" size="Small", Rbtv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4577
+#EXTINF:0 type="stream" channelId="2434" name="Band SP" group="Tv Aberta" size="Small", Band
+https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?
+#EXTINF:0 type="stream" channelId="2437" group="Tv Aberta" size="Small", Tv Gazeta
+https://brflu.walk-tv.com/5758/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2466" group="Tv Aberta" size="Small", Tv brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4554
+#EXTINF:0 type="stream" channelId="1330" group="Canais Link 1" size="Small", HBO
+https://brflu.walk-tv.com/5891/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="361" group="Canais Link 1" size="Small", HBO POP
+https://mycdn.delivery/hbopop/index.m3u8
+#EXTINF:0 type="stream" channelId="2725" group="Canais Link 1" size="Small", HBO Mundi
+https://mycdn.delivery/hbomundi/index.m3u8
+#EXTINF:0 type="stream" channelId="2587" group="Canais Link 1" size="Small", HBO Xtreme
+https://mycdn.delivery/hboxtreme/index.m3u8
+#EXTINF:0 type="stream" channelId="935" name="HBO 2 HD" group="Canais Link 1" size="Small", HBO 2 HD
+https://brflu.walk-tv.com/5857/index.m3u8
+#EXTINF:0 type="stream" channelId="2585" name="HBO PLUS" group="Canais Link 1" size="Small", HBO PLUS
+https://brflu.walk-tv.com/5893/index.m3u8
+#EXTINF:0 type="stream" channelId="2583" name="HBO SIGNATURE" group="Canais Link 1" size="Small", HBO SIGNATURE
+https://brflu.walk-tv.com/5861/index.m3u8
+#EXTINF:0 type="stream" channelId="2584" name="HBO Family" group="Canais Link 1" size="Small", HBO Family
+https://brflu.walk-tv.com/5859/index.m3u8
+#EXTINF:0 type="stream" channelId="1303" name="FX" group="Canais Link 1" size="Small", FX
+https://brflu.walk-tv.com/5855/index.m3u8
+#EXTINF:0 type="stream" channelId="2603" group="Canais Link 1" size="Small", Telecine Action
+https://brflu.walk-tv.com/5875/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2608" name="Telecine Pipoca" group="Canais Link 1" size="Small", Telecine Pipoca
+https://brflu.walk-tv.com/5877/index.m3u8
+#EXTINF:0 type="stream" channelId="2610" name="Telecine Premium" group="Canais Link 1" size="Small", Telecine Premium
+https://brflu.walk-tv.com/5879/index.m3u8
+#EXTINF:0 type="stream" channelId="2611" name="Telecine Touch" group="Canais Link 1" size="Small", Telecine Touch
+https://brflu.walk-tv.com/5880/index.m3u8
+#EXTINF:0 type="stream" channelId="2606" name="Telecine Fun" group="Canais Link 1" size="Small", Telecine Fun
+https://brflu.walk-tv.com/5901/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2605" group="Canais Link 1" size="Small", Telecine Cult
+https://brflu.walk-tv.com/5899/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2625" group="Canais Link 1" size="Small", Studio Universal
+https://brflu.walk-tv.com/5834/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2588" group="Canais Link 1" size="Small", Megapix
+https://brflu.walk-tv.com/5897/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="1040" group="Canais Link 1" size="Small", Tlc Hd
+https://brflu.walk-tv.com/5902/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="67" name="TLC HD" group="Canais Link 1" size="Small", Tlc
+https://cdn-3.nxplay.com.br/TLC_BR_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="1188" group="Canais Link 1" size="Small", E!
+https://brflu.walk-tv.com/5729/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2594" group="Canais Link 1" size="Small", Canal OFF
+https://brflu.walk-tv.com/5826/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="1244" name="Food Network HD" group="Canais Link 1" size="Small", Food Network
+https://cdn-3.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="1720" group="Canais Link 1" size="Small", Food Network HD
+https://brflu.walk-tv.com/5759/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2620" name="Discovery Home & Health" group="Canais Link 1" size="Small", Discovery Home & Health
+https://cdn-3.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="1456" name="History HD" group="Canais Link 1" size="Small", History HD
+https://cdn-3.nxplay.com.br/HISTORY_TK/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="1202" name="History 2 HD" group="Canais Link 1" size="Small", History 2 HD
+http://cdn-3.nxplay.com.br/HISTORY_2_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="207" group="Canais Link 1" size="Small", NatGeo Hd
+https://brflu.walk-tv.com/5777/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="240" name="Animal Planet HD" group="Canais Link 1" size="Small", Animal Planet HD
+https://cdn-3.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="2246" name="AXN HD" group="Canais Link 1" size="Small", AXN HD
+https://cdn-3.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2572" name="ARTE 1" group="Canais Link 1" size="Small", ARTE 1 HD
+https://cdn-3.nxplay.com.br/ARTE1_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="1208" name="A&E" group="Canais Link 1" size="Small", A&E HD
+http://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2501" name="AMC HD" group="Canais Link 1" size="Small", AMC HD
+https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="341" name="Discovery Channel HD" group="Canais Link 1" size="Small", Discovery Channel HD
+https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="2890" name="Discovery World HD" group="Canais Link 1" size="Small", Discovery World HD
+https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="1508" name="Discovery Science HD" group="Canais Link 1" size="Small", Discovery Science HD
+https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="2558" name="Discovery Theater HD" group="Canais Link 1" size="Small", Discovery Theater HD
+https://cdn-3.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="2840" name="Discovery Turbo HD" group="Canais Link 1" size="Small", Discovery Turbo HD
+https://cdn-3.nxplay.com.br/DISCOVERY_TURBO/video.m3u8
+#EXTINF:0 type="stream" channelId="1418" name="HGTV HD" group="Canais Link 1" size="Small", HGTV HD
+https://cdn-3.nxplay.com.br/HGTV_BR_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="2633" group="Canais Link 1" size="Small", FishTV
+https://brflu.walk-tv.com/5808/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="1200" name="Lifetime SD" group="Canais Link 1" size="Small", Lifetime SD
+https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="2577" name="Curta!" group="Canais Link 1" size="Small", Curta!
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2632" name="Film & Arts" group="Canais Link 1" size="Small", Film & Arts
+https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2433" group="Canais Link 2" size="Small", SBT [Alter]
+http://45.235.0.78/SBT-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1031" group="Canais Link 2" size="Small", Record [Alter]
+http://45.235.0.78/RECORDTV-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2456" group="Canais Link 2" size="Small", Record News [Alter]
+http://45.235.0.78/RECORDNEWS-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2434" group="Canais Link 2" size="Small", Band [Alter]
+http://45.235.0.78/BAND-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2573" group="Canais Link 2" size="Small", Band News [Alter]
+http://45.235.0.78/BANDNEWS-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2574" group="Canais Link 2" size="Small", Band Sports[Alter]
+http://45.235.0.78/BANDSPORTS-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2576" group="Canais Link 2" size="Small", Canal Brasil [Alter]
+http://45.235.0.78/CANALBRASIL-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2616" group="Canais Link 2" size="Small", Viva [Alter]
+http://45.235.0.78/VIVA-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2572" group="Canais Link 2" size="Small", Arte 1 [Alter]
+http://45.235.0.78/ARTE1-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2577" group="Canais Link 2" size="Small", Curta! [Alter]
+http://45.235.0.78/CURTA!-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="280" group="Canais Link 2" size="Small", FashionTV [Alter]
+http://45.235.0.78/FASHIONTV-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2582" group="Canais Link 2" size="Small", GNT [Alter]
+http://45.235.0.78/GNT-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1190" group="Canais Link 2" size="Small", Comedy Central [Alter]
+http://45.235.0.78/COMEDYCENTRAL-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1188" group="Canais Link 2" size="Small", E! [Alter]
+http://45.235.0.78/E!-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="67" group="Canais Link 2" size="Small", TLC [Alter]
+http://45.235.0.78/TLC-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1200" group="Canais Link 2" size="Small", Lifetime [Alter]
+http://45.235.0.78/FOXLIFE-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="177" group="Canais Link 2" size="Small", Star Channel [Alter]
+http://45.235.0.78/FOX-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1328" group="Canais Link 2" size="Small", Fox Sports [Alter]
+http://45.235.0.78/FOXSPORTS-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2594" group="Canais Link 2" size="Small", Canal OFF [Alter]
+http://45.235.0.78/OFF-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2718" group="Canais Link 2" size="Small", BIS [Alter]
+http://45.235.0.78/BIS-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2684" group="Canais Link 2" size="Small", TNT Series [Alter]
+http://45.235.0.78/TNTSERIES-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1052" group="Canais Link 2" size="Small", TNT  [Alter]
+http://45.235.0.78/TNT-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Canais Link 2" logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/640px-Logo_TNT_Novelas.png" size="Small", TNT Novelas [Alter]
+http://45.235.0.78/TBS-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Canais Link 2" size="Small", MTV
+http://45.235.0.78/MTV-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2590" group="Canais Link 2" size="Small", Multishow
+http://45.235.0.78/MULTISHOW-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2623" group="Canais Link 2" size="Small", Play TV [Alter]
+http://45.235.0.78/PLAYTV-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2617" group="Canais Link 2" size="Small", WooHoo [Alter]
+http://45.235.0.78/WOOHOO-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2591" group="Canais Link 2" size="Small", Music Box Brazil [Alter]
+http://45.235.0.78/MUSICBOXBRASIL-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1455" group="Canais Link 2" size="Small", History [Alter]
+http://45.235.0.78/HISTORY-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1201" group="Canais Link 2" size="Small", History2 [Alter]
+http://45.235.0.78/H2-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="50" group="Canais Link 2" size="Small", Animal Planet [Alter]
+http://45.235.0.78/ANIMALPLANET-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="56" group="Canais Link 2" size="Small", National Geographic [Alter]
+http://45.235.0.78/NATGEO-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="57" group="Canais Link 2" size="Small", Discovery Channel [Alter]
+http://45.235.0.78/DISCOVERY-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2558" group="Canais Link 2" size="Small", Discovery Theater HD [Alter]
+http://45.235.0.78/DISCTHEATER-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="59" group="Canais Link 2" size="Small", Investigation Discovery [Alter]
+http://45.235.0.78/DISCOVERYID-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1330" group="Canais Link 2" size="Small", HBO [Alter]
+http://45.235.0.78/HBO-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2725" group="Canais Link 2" size="Small", HBO MUNDI [Alter]
+http://45.235.0.78/MAX-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="935" group="Canais Link 2" size="Small", HBO 2 [Alter]
+http://45.235.0.78/HBO2-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2585" group="Canais Link 2" size="Small", HBO + [Alter]
+http://45.235.0.78/HBOPLUS-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2584" group="Canais Link 2" size="Small", HBO FAMILY [Alter]
+http://45.235.0.78/HBOFAMILY-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2583" group="Canais Link 2" size="Small", HBO SIGNATURE [Alter]
+http://45.235.0.78/HBOSIGNATURE-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2603" group="Canais Link 2" size="Small", Telecine Action [Alter]
+http://45.235.0.78/TCACTION-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2605" group="Canais Link 2" size="Small", Telecine Cult [Alter]
+http://45.235.0.78/TCCULT-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2606" group="Canais Link 2" size="Small", Telecine Fun [Alter]
+http://45.235.0.78/TCFUN-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2608" group="Canais Link 2" size="Small", Telecine Pipoca [Alter]
+http://45.235.0.78/TCPIPOCA-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2610" group="Canais Link 2" size="Small", Telecine Premium [Alter]
+http://45.235.0.78/TCPREMIUM-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2611" group="Canais Link 2" size="Small", Telecine Touch [Alter]
+http://45.235.0.78/TELECINETOUCH-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2625" group="Canais Link 2" size="Small", Studio Universal [Alter]
+http://45.235.0.78/STUDIOUNIVERSAL-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="187" group="Canais Link 2" size="Small", Universal TV [Alter]
+http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1719" group="Canais Link 2" size="Small", Paramount Channel [Alter]
+http://45.235.0.78/PARAMOUNT-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2588" group="Canais Link 2" size="Small", Megapix [Alter]
+http://45.235.0.78/MEGAPIX-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="383" group="Canais Link 2" size="Small", Space [Alter]
+http://45.235.0.78/SPACE-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1326" group="Canais Link 2" size="Small", Cinemax [Alter]
+http://45.235.0.78/CINEMAX-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1303" group="Canais Link 2" size="Small", FX [Alter]
+http://45.235.0.78/FX-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1214" group="Canais Link 2" size="Small", Sony Movies [Alter]
+http://45.235.0.78/TRUETV-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1208" group="Canais Link 2" size="Small", A&E [Alter]
+http://45.235.0.78/A&E-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="1573" group="Canais Link 2" size="Small", AXN [Alter]
+http://45.235.0.78/AXN-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2501" group="Canais Link 2" size="Small", AMC [Alter]
+http://45.235.0.78/AMC-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2557" group="Canais Link 2" size="Small", Warner TV [Alter]
+http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="3229" group="Canais Link 2" size="Small", USA [Alter]
+http://45.235.0.78/SYFY-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2626" group="Canais Link 2" size="Small", TruTV [Alter]
+http://45.235.0.78/ADULTSWIM-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="40" group="Canais Link 2" size="Small", Cartoon Network [Alter]
+http://45.235.0.78/CARTOON-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="19" group="Canais Link 2" size="Small", Disney Channel [Alter]
+http://45.235.0.78/DISNEY-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="41" group="Canais Link 2" size="Small", Nickelodeon [Alter]
+http://45.235.0.78/NICK-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="322" group="Canais Link 2" size="Small", Nick Jr [Alter]
+http://45.235.0.78/RECORDTV-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2581" group="Canais Link 2" size="Small", Gloob [Alter]
+http://45.235.0.78/GLOOB-HD/index.m3u8
