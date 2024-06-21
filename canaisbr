@@ -23,3 +23,96 @@ http://45.235.0.78/FOXSPORTS2-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Esportes",Premiere
 http://45.235.0.78/PREMIERECLUBES-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Esportes",Combate
+http://45.235.0.78/COMBATE-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes e Séries",Sony
+http://45.235.0.78/SONY-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes e Séries",A&E
+http://45.235.0.78/A&E-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",Telecine Action
+http://45.235.0.78/TCACTION-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",Telecine Premium
+http://45.235.0.78/TCPREMIUM-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",Telecine Fun
+http://45.235.0.78/TCFUN-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",Telecine Pipoca
+http://45.235.0.78/TCPIPOCA-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",Telecine Cult
+http://45.235.0.78/TCCULT-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes e Séries",Warner
+http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",HBO Plus
+http://45.235.0.78/HBOPLUS-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Documentários",History
+http://45.235.0.78/HISTORY-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",Prime Box
+http://45.235.0.78/PRIMEBOXBRASIL-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",Paramount
+http://45.235.0.78/PARAMOUNT-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",Cinemax
+http://45.235.0.78/CINEMAX-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",Cinecanal
+http://45.235.0.78/CINECANAL-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes e Séries",FX
+http://45.235.0.78/FX-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Variedades",GNT
+http://45.235.0.78/GNT-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",HBO
+http://45.235.0.78/HBO-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",HBO 2
+http://45.235.0.78/HBO2-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",HBO Family
+http://45.235.0.78/HBOFAMILY-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",HBO Signature
+http://45.235.0.78/HBOSIGNATURE-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes e Séries",AMC
+http://45.235.0.78/AMC-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Variedades",Multishow
+http://45.235.0.78/MULTISHOW-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Variedades",Viva
+http://45.235.0.78/VIVA-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes e Séries",Arte 1
+http://45.235.0.78/ARTE1-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",Megapix
+http://45.235.0.78/MEGAPIX-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Documentários",Animal Planet
+http://45.235.0.78/ANIMALPLANET-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Documentários",Natgeo
+http://45.235.0.78/NATGEO-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Música",BIS
+http://45.235.0.78/BIS-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Notícias",CNN Brasil
+http://45.235.0.78/CNNBRASIL-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Filmes",Film & Arts
+http://45.235.0.78/FILMARTS-HD/index.m3u8
