@@ -1,1 +1,4 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Notícias",Globonews
+http://45.235.0.78/GLOBONEWS-HD/index.m3u8
