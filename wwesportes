@@ -3,5 +3,77 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",FS 1
 https://us.score806.cc/us_fs1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",FS 2
+https://live2.notebulk.xyz/Ip6TsTCpQZRrmWmQZKLQhw/1719474182/us_fs2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Sport TV 1
-https://love2live.wideiptv.top/SPT1/tracks-v1/index.fmp4.m3u8
+https://us.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Sport TV 2
+https://us.score806.cc/pt_sporttv2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Sport TV 3
+https://us.score806.cc/pt_sporttv3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Eleven Sports 1
+https://live2.notebulk.xyz/06a9kBmvfgkVLdos-OsOqg/1719474643/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Eleven Sports 2
+https://live2.notebulk.xyz/mJ2nRhfzy_bsRCcvNbB3GA/1719474692/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Eleven Sports 3
+https://m3u8us.qr-build.club/Gdx1GXIc2tJsCUNfInw6jg/1719474726/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Bein Sports 1
+https://us.score806.cc/fr_beinsports1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Bein Sports 2
+https://us.score806.cc/fr_beinsports2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",RMC Sport 1
+https://live2.notebulk.xyz/VhOVl3IuoNgUK7ZBeFUdnA/1719474847/fr_rmcsport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",RMC Sport 2
+https://live2.notebulk.xyz/lMC5jf9ewRHFeR6kQf_7wA/1719474883/fr_rmcsport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",NBA TV
+https://live2.notebulk.xyz/cXaWwwXD8i1CcTc2U4bFOw/1719474932/us_nbatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",NFL Network
+https://live2.notebulk.xyz/Yj6srm4yezdBOtIuWeGy2Q/1719474986/us_nflnetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",TNT Sports 1
+https://live2.notebulk.xyz/2CY0lvgNOpYg-j3iQUWb8w/1719475022/uk_bts1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",TNT Sports 2
+https://live2.notebulk.xyz/Vf52t7wiMy7lvqR96wpAAQ/1719475064/uk_bts2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",TNT Sports 3
+https://live2.notebulk.xyz/e1p36Vqj8XppxGgefoTBrA/1719475085/uk_bts3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",TNT Sports 4
+https://live2.notebulk.xyz/8Mmche7abgMuIDrPIpNbSg/1719475103/uk_bts4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Premier Sports 1
+https://us.score806.cc/uk_premiersports1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Premier Sports 2
+https://live2.notebulk.xyz/eYGniOiZlhNi3dHqclSEfA/1719475166/uk_premiersports2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Sky Sports Football
+https://live2.notebulk.xyz/9wCXoiTe9woonVcRA4XCtg/1719475186/uk_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Sky Sports EPL
+https://live2.notebulk.xyz/4fkp9S4BpzUBWZg_AXPm_Q/1719475218/uk_ssepl/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Sky Sports Main Event
+https://live2.notebulk.xyz/tmJWU03S__Nv8CqarVWCsQ/1719475241/uk_ssmain/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Sky Sports F1
+https://live2.notebulk.xyz/DeJ4j_9emb3T5VHvw5-8zw/1719475273/uk_ssf1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Eurosport 1
+https://live2.notebulk.xyz/1-7cCTrpfT5VrZv8vcm80w/1719475312/uk_eurosport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Eurosport 2
+https://live2.notebulk.xyz/ra70nq6vuEf8u_4gTATCAw/1719475358/uk_eurosport2/index.m3u8
