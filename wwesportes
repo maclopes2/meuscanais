@@ -118,4 +118,4 @@ http://45.179.164.30:8000/play/a0cg/index.m3u8
 http://45.179.164.30:8000/play/a0ct/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",TYC Sports
-http://38.41.8.1:8000/play/a02i
+http://190.119.123.220:4000/play/a01v/index.m3u8
