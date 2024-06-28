@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/03/FS1-832x447.png" group-title="Esportes",FS 1
-https://live2.notebulk.xyz/O0edNjhAZbFysSCFiGCSlA/1719531749/us_fs1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Sport TV 1
 https://live2.notebulk.xyz/c1JAyWRucJnonx0CaxR2FQ/1719548614/pt_sporttv1/tracks-v1a1/mono.m3u8
 
@@ -21,41 +18,8 @@ https://live2.notebulk.xyz/WlazmxLaDWxKcA-Zrn1gfQ/1719531215/pt_elevensport2/ind
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Eleven Sports 3
 https://live2.notebulk.xyz/gYBee__TU_bzQCUu7fjrpA/1719531237/pt_elevensport3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Bein Sports 1
-https://live2.notebulk.xyz/tXCL8CUZTOl1FyUeZqwUeg/1719531778/fr_beinsports1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Bein Sports 2
-https://live2.notebulk.xyz/QmDgyu9XUA0h3znMl4CH6A/1719531797/fr_beinsports2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",RMC Sport 1
-https://live2.notebulk.xyz/WU9BZwm47nhCmGQmjbADcA/1719531331/fr_rmcsport1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",RMC Sport 2
-https://live2.notebulk.xyz/tMHiDJVWAHLSY5V4K1HZIQ/1719531349/fr_rmcsport2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=png&p=true&q=60&w=360" group-title="Esportes",TNT Sports 1
-https://live2.notebulk.xyz/YL_V3-BXw-3V-OyZ0FhMzw/1719531406/uk_bts1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=png&p=true&q=60&w=360" group-title="Esportes",TNT Sports 2
-https://live2.notebulk.xyz/bIjRpNBw0445--NHM5Q4DQ/1719531421/uk_bts2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="Esportes",TNT Sports 3
-https://live2.notebulk.xyz/m3vgDcJjSNMJ2ZXjzJcryw/1719531435/uk_bts3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/174fef29-55ec-48ee-af18-bc4a3011287a.png?bf=0&f=png&p=true&q=60&w=360" group-title="Esportes",TNT Sports 4
-https://live2.notebulk.xyz/9G08JLbIk8LL3gPpYkbE_g/1719531447/uk_bts4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Premier Sports 1
-https://live2.notebulk.xyz/-ksaE0m8nkVf2RF0pdvw1Q/1719531532/uk_premiersports1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Premier Sports 2
-https://live2.notebulk.xyz/t-MDV2DXHcRUcAuqhnUEVg/1719531494/uk_premiersports2/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Combate
 http://45.235.0.78/COMBATE-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",Sportv
-https://sportscdn.net/live/sportv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",Premiere
 https://sportscdn.net/live/premiereclubes_720p.m3u8
