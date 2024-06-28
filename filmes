@@ -36,3 +36,6 @@ https://mycdn.delivery/hboxtreme/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TV Cine Top
 https://krasnodar.wideiptv.top/TVCineTop/tracks-a1/index.fmp4.m3u8?token=d3521a901542e91b7bdfc820f438e703539b1335-dfa4e139aef73d373b7b5f27d3efd445-1719544528-1719533728
+
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TV Cine Action
+https://krasnodar.wideiptv.top/TVCineActionPT/tracks-a1/index.fmp4.m3u8?token=d3fbc6bacedbd1f6db95c7189077689b0b72f4bf-58f0c20cd4d544a658581370c6f42b2e-1719544636-1719533836
