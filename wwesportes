@@ -107,15 +107,3 @@ http://190.119.123.220:4000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",Gol TV
 http://190.119.123.220:4000/play/a01q/index.m3u8
-
-#EXTINF:-1 logo="http://92.114.85.66:9981/imagecache/16" tvg-id="94d34fe32ed14f3640346dec4a211d7a" tvg-chno="1307",SkySp F1
-http://92.114.85.66:9981/stream/channelid/1666175892?profile=pass
-
-#EXTINF:-1 logo="http://92.114.85.66:9981/imagecache/19" tvg-id="1705b4af8f6246b47f75b54823823032" tvg-chno="1326",SkySp PL
-http://92.114.85.66:9981/stream/channelid/800326935?profile=pass
-
-#EXTINF:-1 logo="http://92.114.85.66:9981/imagecache/15" tvg-id="7c725b4197ceec2d40a885fe0f8158cc" tvg-chno="3848",SkySp F'ball
-http://92.114.85.66:9981/stream/channelid/1096512124?profile=pass
-
-#EXTINF:-1 logo="http://92.114.85.66:9981/imagecache/20" tvg-id="577192cd50f2e0c8cdb8ffbc2bc396ee" tvg-chno="5301",SkySpMainEv
-http://92.114.85.66:9981/stream/channelid/1301442903?profile=pass
