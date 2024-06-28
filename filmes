@@ -1,0 +1,35 @@
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TC Touch
+https://mycdn.delivery/telecinetouch/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TC Premium
+https://mycdn.delivery/telecinepremium/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TC Pipoca
+https://mycdn.delivery/telecinepipoca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TC Fun
+https://mycdn.delivery/telecinefun/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TC Cult
+https://mycdn.delivery/telecinecult/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",TC Action
+https://mycdn.delivery/telecineaction/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",HBO
+https://mycdn.delivery/hbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",HBO 2
+https://mycdn.delivery/hbo2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",HBO Family
+https://mycdn.delivery/hbofamily/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",HBO Plus
+https://mycdn.delivery/hboplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",HBO Signature
+https://mycdn.delivery/hbosignature/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" group-title="Filmes",HBO Xtreme
+https://mycdn.delivery/hboxtreme/tracks-v1a1/mono.m3u8
