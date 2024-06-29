@@ -55,3 +55,55 @@ http://111.119.160.229:8000/play/a0pi/index.m3u8
 http://111.119.160.229:8000/play/a010/index.m3u8
 #EXTINF:-1,TNT SPORTS 2
 http://111.119.160.229:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="FREQ--1",AD Sport Premium 1
+http://102.221.58.35:8000/play/a03i
+#EXTINF:-1 group-title="FREQ--1",AD Sport Premium 2
+http://102.221.58.35:8000/play/a03h
+#EXTINF:-1 group-title="FREQ--1",ASO SPORT
+http://102.221.58.35:8000/play/a03f
+#EXTINF:-1 group-title="FREQ--1",FIGHT SPORT
+http://102.221.58.35:8000/play/a03l
+#EXTINF:-1 group-title="FREQ--1",LD SPORTS
+http://102.221.58.35:8000/play/a03g
+#EXTINF:-1 group-title="FREQ--1",LIBYA SPORT 1
+http://102.221.58.35:8000/play/a097
+#EXTINF:-1 group-title="FREQ--1",NRT SPORT
+http://102.221.58.35:8000/play/a03k
+#EXTINF:-1 group-title="FREQ--1",SSC-4
+http://102.221.58.35:8000/play/a03p
+#EXTINF:-1 group-title="FREQ--1",SSC-5
+http://102.221.58.35:8000/play/a03q
+#EXTINF:-1 group-title="FREQ--1",Sport tv 1
+http://102.221.58.35:8000/play/a03s
+#EXTINF:-1 group-title="FREQ--1",Sport-tv-7
+http://102.221.58.35:8000/play/a03v
+#EXTINF:-1 group-title="FREQ--1",beIN Sports 1 FR- sp5
+http://102.221.58.35:8000/play/a03w
+#EXTINF:-1 group-title="FREQ--1",beIN Sports 2 FR-sp6
+http://102.221.58.35:8000/play/a03u
+#EXTINF:-1 group-title="FREQ--1",sport tv 2
+http://102.221.58.35:8000/play/a034
+#EXTINF:-1 group-title="FREQ--1",sport tv 3
+http://102.221.58.35:8000/play/a03z
+#EXTINF:-1 group-title="FREQ--1",sport tv 4
+http://102.221.58.35:8000/play/a040
+#EXTINF:-1 group-title="FREQ--1",bein_sports_1
+http://102.221.58.35:8000/play/a035
+#EXTINF:-1 group-title="FREQ--1",bein_sports_2
+http://102.221.58.35:8000/play/a036
+#EXTINF:-1 group-title="FREQ--1",bein_sports_3
+http://102.221.58.35:8000/play/a037
+#EXTINF:-1 group-title="FREQ--1",bein_sports_4
+http://102.221.58.35:8000/play/a039
+#EXTINF:-1 group-title="FREQ--1",bein_sports_5
+http://102.221.58.35:8000/play/a03a
+#EXTINF:-1 group-title="FREQ--1",bein_sports_6
+http://102.221.58.35:8000/play/a03b
+#EXTINF:-1 group-title="FREQ--1",bein_sports_7
+http://102.221.58.35:8000/play/a03c
+#EXTINF:-1 group-title="FREQ--1",beIN SPORTS 8
+http://102.221.58.35:8000/play/a03d
+#EXTINF:-1 group-title="FREQ--1",beIN SPORTS 9
+http://102.221.58.35:8000/play/a03e
+#EXTINF:-1 group-title="FREQ--1",beIN SPORTS xtra-1
+http://102.221.58.35:8000/play/a03x
