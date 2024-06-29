@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1,OSN HOLLYWOOD HD
-http://111.119.160.229:8000/play/a0nq/index.m3u8
-#EXTINF:-1,OSN MEZZE HD
-http://111.119.160.229:8000/play/a0np/index.m3u8
-#EXTINF:-1,OSN MOVIES ACTION
-http://111.119.160.229:8000/play/a0nn/index.m3u8
-#EXTINF:-1,OSN PREMIER HD
-http://111.119.160.229:8000/play/a0nl/index.m3u8
-#EXTINF:-1,PMG ACTION HD
-http://111.119.160.229:8000/play/a01z/index.m3u8
-#EXTINF:-1,PMG HITS HD
-http://111.119.160.229:8000/play/a022/index.m3u8
-#EXTINF:-1,PMG MOVIES HD
-http://111.119.160.229:8000/play/a024/index.m3u8
-#EXTINF:-1,PMG MUSIC HD
-http://111.119.160.229:8000/play/a020/index.m3u8
-#EXTINF:-1,PMG+ HD
-http://111.119.160.229:8000/play/a021/index.m3u8
-#EXTINF:-1,PTC Chakde - Free
-http://111.119.160.229:8000/play/a0s9/index.m3u8
-#EXTINF:-1,Pogo
-http://111.119.160.229:8000/play/a0p4/index.m3u8
-#EXTINF:-1,Romedy Now - Rs 5.00
-http://111.119.160.229:8000/play/a0qy/index.m3u8
-#EXTINF:-1,SET HD
-http://111.119.160.229:8000/play/a0oa/index.m3u8
-#EXTINF:-1,SKY HISTORY
-http://111.119.160.229:8000/play/a009/index.m3u8
 #EXTINF:-1,SKY SPORTS EPL
 http://111.119.160.229:8000/play/a00s/index.m3u8
 #EXTINF:-1,SKY SPORTS F1
@@ -37,20 +9,6 @@ http://111.119.160.229:8000/play/a00p/index.m3u8
 http://111.119.160.229:8000/play/a005/index.m3u8
 #EXTINF:-1,SKYSP CRICKET
 http://111.119.160.229:8000/play/a0o0/index.m3u8
-#EXTINF:-1,SONY AATH - Rs 6.00
-http://111.119.160.229:8000/play/a0rg/index.m3u8
-#EXTINF:-1,SONY BBC EARTH HD - Rs 19.00
-http://111.119.160.229:8000/play/a0qg/index.m3u8
-#EXTINF:-1,SONY MAX 2 - Rs 1.00
-http://111.119.160.229:8000/play/a0oz/index.m3u8
-#EXTINF:-1,SONY MAX HD - Rs 19.00
-http://111.119.160.229:8000/play/a0q1/index.m3u8
-#EXTINF:-1,SONY PAL - Rs 0.50
-http://111.119.160.229:8000/play/a0p2/index.m3u8
-#EXTINF:-1,SONY PIX HD - Rs 19.00
-http://111.119.160.229:8000/play/a0r7/index.m3u8
-#EXTINF:-1,SONY SAB HD
-http://111.119.160.229:8000/play/a0ow/index.m3u8
 #EXTINF:-1,SONY SPORTS TEN 1 HD
 http://111.119.160.229:8000/play/a0r2/index.m3u8
 #EXTINF:-1,SONY SPORTS TEN 2 HD
@@ -61,12 +19,6 @@ http://111.119.160.229:8000/play/a0r6/index.m3u8
 http://111.119.160.229:8000/play/a0qd/index.m3u8
 #EXTINF:-1,SONY SPORTS TEN 5 HD - Rs 19.00
 http://111.119.160.229:8000/play/a0r8/index.m3u8
-#EXTINF:-1,SONY YAY! - Rs 4.00
-http://111.119.160.229:8000/play/a0rp/index.m3u8
-#EXTINF:-1,SS CRICKET
-http://111.119.160.229:8000/play/a00r/index.m3u8
-#EXTINF:-1,SSS ACTION
-http://111.119.160.229:8000/play/a00u/index.m3u8
 #EXTINF:-1,SSS EPL
 http://111.119.160.229:8000/play/a00t/index.m3u8
 #EXTINF:-1,SSS GOLF
@@ -77,42 +29,6 @@ http://111.119.160.229:8000/play/a00x/index.m3u8
 http://111.119.160.229:8000/play/a00y/index.m3u8
 #EXTINF:-1,SSS WWE
 http://111.119.160.229:8000/play/a00v/index.m3u8
-#EXTINF:-1,STAR GOLD +1 - Free*
-http://111.119.160.229:8000/play/a0sa/index.m3u8
-#EXTINF:-1,STAR GOLD HD
-http://111.119.160.229:8000/play/a0ox/index.m3u8
-#EXTINF:-1,STAR Maa HD - Rs 22.00
-http://111.119.160.229:8000/play/a0pb/index.m3u8
-#EXTINF:-1,STAR Movies HD - Rs 19.00
-http://111.119.160.229:8000/play/a0r9/index.m3u8
-#EXTINF:-1,STAR Movies Select HD - Rs 19.00
-http://111.119.160.229:8000/play/a0pp/index.m3u8
-#EXTINF:-1,STAR Plus HD
-http://111.119.160.229:8000/play/a0of/index.m3u8
-#EXTINF:-1,Sonic Nickelodeon - Rs 1.00
-http://111.119.160.229:8000/play/a0p8/index.m3u8
-#EXTINF:-1,Sports 18 - 1
-http://111.119.160.229:8000/play/a0s4/index.m3u8
-#EXTINF:-1,Star Bharat HD - Rs 19.00
-http://111.119.160.229:8000/play/a0po/index.m3u8
-#EXTINF:-1,Star Gold 2 - Rs 3.00
-http://111.119.160.229:8000/play/a0oy/index.m3u8
-#EXTINF:-1,Star Gold 2 HD - Rs 5.00
-http://111.119.160.229:8000/play/a0qp/index.m3u8
-#EXTINF:-1,Star Gold Romance - Rs 2.00
-http://111.119.160.229:8000/play/a0ro/index.m3u8
-#EXTINF:-1,Star Gold Select HD - Rs 8.00
-http://111.119.160.229:8000/play/a0qh/index.m3u8
-#EXTINF:-1,Star Gold Thrills - Rs 2.00
-http://111.119.160.229:8000/play/a0ov/index.m3u8
-#EXTINF:-1,Star Jalsha HD - Rs 19.00
-http://111.119.160.229:8000/play/a0ph/index.m3u8
-#EXTINF:-1,Star Life HD - Rs 2.00
-http://111.119.160.229:8000/play/a0qq/index.m3u8
-#EXTINF:-1,Star Maa Gold - Rs 9.00
-http://111.119.160.229:8000/play/a0q3/index.m3u8
-#EXTINF:-1,Star Pravah HD - Rs 19.00
-http://111.119.160.229:8000/play/a0rq/index.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://111.119.160.229:8000/play/a0og/index.m3u8
 #EXTINF:-1,Star Sports 1 Hindi HD - Rs 19.00
@@ -135,67 +51,7 @@ http://111.119.160.229:8000/play/a0ss/index.m3u8
 http://111.119.160.229:8000/play/a0pg/index.m3u8
 #EXTINF:-1,Star Sports Select 2 HD
 http://111.119.160.229:8000/play/a0pi/index.m3u8
-#EXTINF:-1,Star Suvarna HD - Rs 22.00
-http://111.119.160.229:8000/play/a0pq/index.m3u8
-#EXTINF:-1,Sun Life - Rs 9.00
-http://111.119.160.229:8000/play/a0os/index.m3u8
-#EXTINF:-1,Sun TV HD - Rs 19.00
-http://111.119.160.229:8000/play/a0ot/index.m3u8
-#EXTINF:-1,Super Hungama - Rs 4.00
-http://111.119.160.229:8000/play/a0sp/index.m3u8
-#EXTINF:-1,TATA PLAY-HOLLYWOOD LOCAL
-http://111.119.160.229:8000/play/a0si/index.m3u8
-#EXTINF:-1,TLC HD - Rs 3.00
-http://111.119.160.229:8000/play/a0rl/index.m3u8
 #EXTINF:-1,TNT SPORTS 1
 http://111.119.160.229:8000/play/a010/index.m3u8
 #EXTINF:-1,TNT SPORTS 2
 http://111.119.160.229:8000/play/a011/index.m3u8
-#EXTINF:-1,TestService2155
-http://111.119.160.229:8000/play/a0st/index.m3u8
-#EXTINF:-1,TravelXP 4K HDR - Free
-http://111.119.160.229:8000/play/a0sg/index.m3u8
-#EXTINF:-1,Travelxp - Rs 3.00
-http://111.119.160.229:8000/play/a0pe/index.m3u8
-#EXTINF:-1,Travelxp HD - Rs 9.00
-http://111.119.160.229:8000/play/a0qn/index.m3u8
-#EXTINF:-1,UK-E! HD
-http://111.119.160.229:8000/play/a016/index.m3u8
-#EXTINF:-1,Vijay HD - Rs 22.00
-http://111.119.160.229:8000/play/a0oq/index.m3u8
-#EXTINF:-1,Vijay Takkar - Rs 2.00
-http://111.119.160.229:8000/play/a0pd/index.m3u8
-#EXTINF:-1,WILLOW CRIC4
-http://111.119.160.229:8000/play/a0o1/index.m3u8
-#EXTINF:-1,WoW Cinema One - Free
-http://111.119.160.229:8000/play/a0sq/index.m3u8
-#EXTINF:-1,Zee Anmol - Rs 0.10
-http://111.119.160.229:8000/play/a0sk/index.m3u8
-#EXTINF:-1,Zee Bangla HD - Rs 19.00
-http://111.119.160.229:8000/play/a0pl/index.m3u8
-#EXTINF:-1,Zee Bharat - Rs 0.10
-http://111.119.160.229:8000/play/a0q6/index.m3u8
-#EXTINF:-1,Zee Bollywood - Rs 3.00
-http://111.119.160.229:8000/play/a0p7/index.m3u8
-#EXTINF:-1,Zee Cafe HD - Rs 10.00
-http://111.119.160.229:8000/play/a0ql/index.m3u8
-#EXTINF:-1,Zee Cinema HD
-http://111.119.160.229:8000/play/a0pk/index.m3u8
-#EXTINF:-1,Zee Classic - Rs 0.10
-http://111.119.160.229:8000/play/a0oc/index.m3u8
-#EXTINF:-1,Zee Kannada HD - Rs 19.00
-http://111.119.160.229:8000/play/a0pr/index.m3u8
-#EXTINF:-1,Zee Marathi HD - Rs 19.00
-http://111.119.160.229:8000/play/a0rt/index.m3u8
-#EXTINF:-1,Zee TV HD
-http://111.119.160.229:8000/play/a0ru/index.m3u8
-#EXTINF:-1,Zee Talkies HD - Rs 19.00
-http://111.119.160.229:8000/play/a0qt/index.m3u8
-#EXTINF:-1,Zee Tamil HD - Rs 19.00
-http://111.119.160.229:8000/play/a0oo/index.m3u8
-#EXTINF:-1,Zee Telugu HD - Rs 19.00
-http://111.119.160.229:8000/play/a0on/index.m3u8
-#EXTINF:-1,Zing - Rs 0.10
-http://111.119.160.229:8000/play/a0sc/index.m3u8
-#EXTINF:-1,Zoom - Rs 0.50
-http://111.119.160.229:8000/play/a0q7/index.m3u8
