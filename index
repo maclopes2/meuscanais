@@ -1,109 +1,220 @@
 #EXTM3U
+
 #EXTINF:-1,SKY SPORTS EPL
 http://111.119.160.229:8000/play/a00s/index.m3u8
+
 #EXTINF:-1,SKY SPORTS F1
 http://111.119.160.229:8000/play/a00o/index.m3u8
+
 #EXTINF:-1,SKY SPORTS GOLF
 http://111.119.160.229:8000/play/a00p/index.m3u8
+
 #EXTINF:-1,SKY SPORTS MAIN EVENT
 http://111.119.160.229:8000/play/a005/index.m3u8
+
 #EXTINF:-1,SKYSP CRICKET
 http://111.119.160.229:8000/play/a0o0/index.m3u8
+
 #EXTINF:-1,SONY SPORTS TEN 1 HD
 http://111.119.160.229:8000/play/a0r2/index.m3u8
+
 #EXTINF:-1,SONY SPORTS TEN 2 HD
 http://111.119.160.229:8000/play/a0r5/index.m3u8
+
 #EXTINF:-1,SONY SPORTS TEN 3 HD - Rs 19.00
 http://111.119.160.229:8000/play/a0r6/index.m3u8
+
 #EXTINF:-1,SONY SPORTS TEN 4 - Rs 17.00
 http://111.119.160.229:8000/play/a0qd/index.m3u8
+
 #EXTINF:-1,SONY SPORTS TEN 5 HD - Rs 19.00
 http://111.119.160.229:8000/play/a0r8/index.m3u8
+
 #EXTINF:-1,SSS EPL
 http://111.119.160.229:8000/play/a00t/index.m3u8
+
 #EXTINF:-1,SSS GOLF
 http://111.119.160.229:8000/play/a00w/index.m3u8
+
 #EXTINF:-1,SSS LA LIGA
 http://111.119.160.229:8000/play/a00x/index.m3u8
+
 #EXTINF:-1,SSS PSL
 http://111.119.160.229:8000/play/a00y/index.m3u8
+
 #EXTINF:-1,SSS WWE
 http://111.119.160.229:8000/play/a00v/index.m3u8
+
 #EXTINF:-1,Star Sports 1 HD
 http://111.119.160.229:8000/play/a0og/index.m3u8
+
 #EXTINF:-1,Star Sports 1 Hindi HD - Rs 19.00
 http://111.119.160.229:8000/play/a0q0/index.m3u8
+
 #EXTINF:-1,Star Sports 1 Hindi HD_O
 http://111.119.160.229:8000/play/a0rf/index.m3u8
+
 #EXTINF:-1,Star Sports 1 Kannada - Rs 19.00
 http://111.119.160.229:8000/play/a0sh/index.m3u8
+
 #EXTINF:-1,Star Sports 1 Tamil HD - Rs 19.00
 http://111.119.160.229:8000/play/a0op/index.m3u8
+
 #EXTINF:-1,Star Sports 1 Telugu HD - Rs 19.00
 http://111.119.160.229:8000/play/a0pn/index.m3u8
+
 #EXTINF:-1,Star Sports 2 HD
 http://111.119.160.229:8000/play/a0or/index.m3u8
+
 #EXTINF:-1,Star Sports 3 - Rs 2.00
 http://111.119.160.229:8000/play/a0sl/index.m3u8
+
 #EXTINF:-1,Star Sports 4K
 http://111.119.160.229:8000/play/a0ss/index.m3u8
+
 #EXTINF:-1,Star Sports Select 1 HD
 http://111.119.160.229:8000/play/a0pg/index.m3u8
+
 #EXTINF:-1,Star Sports Select 2 HD
 http://111.119.160.229:8000/play/a0pi/index.m3u8
+
 #EXTINF:-1,TNT SPORTS 1
 http://111.119.160.229:8000/play/a010/index.m3u8
+
 #EXTINF:-1,TNT SPORTS 2
 http://111.119.160.229:8000/play/a011/index.m3u8
+
 #EXTINF:-1 group-title="FREQ--1",AD Sport Premium 1
 http://102.221.58.35:8000/play/a03i
+
 #EXTINF:-1 group-title="FREQ--1",AD Sport Premium 2
 http://102.221.58.35:8000/play/a03h
+
 #EXTINF:-1 group-title="FREQ--1",ASO SPORT
 http://102.221.58.35:8000/play/a03f
+
 #EXTINF:-1 group-title="FREQ--1",FIGHT SPORT
 http://102.221.58.35:8000/play/a03l
+
 #EXTINF:-1 group-title="FREQ--1",LD SPORTS
 http://102.221.58.35:8000/play/a03g
+
 #EXTINF:-1 group-title="FREQ--1",LIBYA SPORT 1
 http://102.221.58.35:8000/play/a097
+
 #EXTINF:-1 group-title="FREQ--1",NRT SPORT
 http://102.221.58.35:8000/play/a03k
+
 #EXTINF:-1 group-title="FREQ--1",SSC-4
 http://102.221.58.35:8000/play/a03p
+
 #EXTINF:-1 group-title="FREQ--1",SSC-5
 http://102.221.58.35:8000/play/a03q
+
 #EXTINF:-1 group-title="FREQ--1",Sport tv 1
 http://102.221.58.35:8000/play/a03s
+
 #EXTINF:-1 group-title="FREQ--1",Sport-tv-7
 http://102.221.58.35:8000/play/a03v
+
 #EXTINF:-1 group-title="FREQ--1",beIN Sports 1 FR- sp5
 http://102.221.58.35:8000/play/a03w
+
 #EXTINF:-1 group-title="FREQ--1",beIN Sports 2 FR-sp6
 http://102.221.58.35:8000/play/a03u
+
 #EXTINF:-1 group-title="FREQ--1",sport tv 2
 http://102.221.58.35:8000/play/a034
+
 #EXTINF:-1 group-title="FREQ--1",sport tv 3
 http://102.221.58.35:8000/play/a03z
+
 #EXTINF:-1 group-title="FREQ--1",sport tv 4
 http://102.221.58.35:8000/play/a040
+
 #EXTINF:-1 group-title="FREQ--1",bein_sports_1
 http://102.221.58.35:8000/play/a035
+
 #EXTINF:-1 group-title="FREQ--1",bein_sports_2
 http://102.221.58.35:8000/play/a036
+
 #EXTINF:-1 group-title="FREQ--1",bein_sports_3
 http://102.221.58.35:8000/play/a037
+
 #EXTINF:-1 group-title="FREQ--1",bein_sports_4
 http://102.221.58.35:8000/play/a039
+
 #EXTINF:-1 group-title="FREQ--1",bein_sports_5
 http://102.221.58.35:8000/play/a03a
+
 #EXTINF:-1 group-title="FREQ--1",bein_sports_6
 http://102.221.58.35:8000/play/a03b
+
 #EXTINF:-1 group-title="FREQ--1",bein_sports_7
 http://102.221.58.35:8000/play/a03c
+
 #EXTINF:-1 group-title="FREQ--1",beIN SPORTS 8
 http://102.221.58.35:8000/play/a03d
+
 #EXTINF:-1 group-title="FREQ--1",beIN SPORTS 9
 http://102.221.58.35:8000/play/a03e
+
 #EXTINF:-1 group-title="FREQ--1",beIN SPORTS xtra-1
 http://102.221.58.35:8000/play/a03x
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Esportes",Combate
+http://45.235.0.78/COMBATE-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",Premiere
+https://sportscdn.net/live/premiereclubes_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",Premiere 2
+https://sportscdn.net/live/premiere2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",Premiere 3
+https://sportscdn.net/live/premiere3_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",Premiere 4
+https://sportscdn.net/live/premiere4_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",Premiere 5
+https://sportscdn.net/live/premiere5_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",Premiere 6
+https://sportscdn.net/live/premiere6_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",Premiere 7
+https://sportscdn.net/live/premiere7_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",Premiere 8
+https://sportscdn.net/live/premiere8_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",ESPN
+http://45.179.164.30:8000/play/a04a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",ESPN 2
+http://45.179.164.30:8000/play/a0ci/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Esportes",ESPN 3
+http://45.179.164.30:8000/play/a0cf/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",ESPN 4
+http://45.179.164.30:8000/play/a0cz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="Esportes",ESPN 5
+http://45.179.164.30:8000/play/a0cs/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="Esportes",ESPN 6
+http://45.179.164.30:8000/play/a0cg/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-7-logo-png_seeklogo-522718.png" group-title="Esportes",ESPN 7
+http://45.179.164.30:8000/play/a0ct/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",TYC Sports
+http://190.119.123.220:4000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="Esportes",Gol TV
+http://190.119.123.220:4000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Esportes",UFC Fightpass HD
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/250107
