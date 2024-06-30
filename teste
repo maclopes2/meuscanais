@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,TV Cine TOP
-https://securednode.xyz/TVCineTop/tracks-v1/index.m3u8?token=1f96cc1c4e608a525f68bb27f0c3d50ab730a4a1-4a12ec78cd9308c49d83e868331cde43-1719788923-1719778123
+#EXTINF:-1,Sport.TV 1
+https://love2live.wideiptv.top/SPT1/tracks-a1/index.m3u8?token=c3a128593289719be838da34284af86eea1b5803-81864265fb8898909de0f0c5a228e844-1719791546-1719780746
+
+#EXTINF:-1,Sport.TV 2
+https://love2live.wideiptv.top/SPT2/tracks-a1/index.fmp4.m3u8?token=8febadf3aa408d3c102158578c3212ba4351e6a0-3d8109c93e274b13136d320326c8831b-1719791614-1719780814
