@@ -1,12 +1,9 @@
+# script.py
+
 import requests
 import re
-import schedule
-import time
-import logging
-from github import Github, UnknownObjectException
-
-# Configuração do logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', handlers=[logging.StreamHandler()])
+import os
+from github import Github
 
 # Lista de URLs das páginas que contêm as URLs m3u8
 page_urls = [
@@ -39,6 +36,7 @@ page_urls = [
 ]
 
 # Configuração do GitHub
+github_token = os.getenv('GITHUB_TOKEN')
 repo_name = 'maclopes2/meuscanais'  # Formato: usuário/repositório
 file_path = 'teste'  # Caminho completo para o arquivo no repositório
 
@@ -55,15 +53,15 @@ def fetch_m3u8_urls():
             
             if found_url:
                 m3u8_url = found_url.group(1)
-                logging.info(f"URL m3u8 encontrada na página {page_url}: {m3u8_url}")
+                print(f"URL m3u8 encontrada na página {page_url}: {m3u8_url}")
                 m3u8_urls.append(m3u8_url)
             else:
-                logging.warning(f"URL m3u8 não encontrada na página {page_url}.")
+                print(f"URL m3u8 não encontrada na página {page_url}.")
         
         except requests.RequestException as e:
-            logging.error(f"Erro ao fazer a solicitação HTTP para {page_url}: {e}")
+            print(f"Erro ao fazer a solicitação HTTP para {page_url}: {e}")
         except Exception as e:
-            logging.error(f"Erro inesperado na página {page_url}: {e}")
+            print(f"Erro inesperado na página {page_url}: {e}")
     
     return m3u8_urls
 
@@ -74,23 +72,9 @@ def load_iptv_list_from_github(file_path):
         repo = g.get_repo(repo_name)
         file = repo.get_contents(file_path)
         return file.decoded_content.decode('utf-8').splitlines()
-    except UnknownObjectException:
-        logging.warning(f"Arquivo IPTV não encontrado no repositório {repo_name}. Criando um novo arquivo.")
-        create_blank_file_in_github(file_path)
-        return []
     except Exception as e:
-        logging.error(f"Erro ao carregar o arquivo IPTV do GitHub: {e}")
+        print(f"Erro ao carregar o arquivo IPTV do GitHub: {e}")
         return []
-
-# Função para criar um arquivo em branco no GitHub se não existir
-def create_blank_file_in_github(file_path):
-    try:
-        g = Github(github_token)
-        repo = g.get_repo(repo_name)
-        repo.create_file(file_path, "Criando arquivo inicial", "")
-        logging.info(f"Arquivo IPTV criado com sucesso no repositório {repo_name}.")
-    except Exception as e:
-        logging.error(f"Erro ao criar o arquivo no repositório GitHub: {e}")
 
 # Função para salvar a lista IPTV atualizada no GitHub
 def save_iptv_list_to_github(file_path, lines):
@@ -99,12 +83,12 @@ def save_iptv_list_to_github(file_path, lines):
         repo = g.get_repo(repo_name)
         current_content = '\n'.join(lines)
         repo.update_file(file_path, "Atualização automática de IPTV", current_content, repo.get_contents(file_path).sha)
-        logging.info(f"Arquivo IPTV atualizado com sucesso no repositório {repo_name}.")
+        print(f"Arquivo IPTV atualizado com sucesso no repositório {repo_name}.")
     except Exception as e:
-        logging.error(f"Erro ao atualizar o arquivo no repositório GitHub: {e}")
+        print(f"Erro ao atualizar o arquivo no repositório GitHub: {e}")
 
-# Função para atualizar a lista IPTV com novas URLs m3u8
-def update_iptv_list():
+# Função principal para executar o processo de atualização
+def main():
     # Carregar a lista IPTV existente do GitHub
     lines = load_iptv_list_from_github(file_path)
     
@@ -117,27 +101,12 @@ def update_iptv_list():
         if line.startswith('http'):
             if m3u8_urls:
                 updated_lines.append(m3u8_urls.pop(0))  # Adicionar a primeira URL m3u8 da lista
-                logging.info(f"Atualizando URL m3u8 na ordem: {updated_lines[-1]}")
+                print(f"Atualizando URL m3u8 na ordem: {updated_lines[-1]}")
         else:
             updated_lines.append(line)
     
     # Salvar a lista IPTV atualizada no GitHub
     save_iptv_list_to_github(file_path, updated_lines)
 
-# Executar a varredura imediatamente
-update_iptv_list()
-
-# Agendar a execução da função em intervalos regulares (ex. a cada 10 minutos)
-schedule.every(10).minutes.do(update_iptv_list)
-
-# Loop para manter o script em execução
-while True:
-    try:
-        schedule.run_pending()
-        time.sleep(1)
-    except KeyboardInterrupt:
-        logging.info("Script interrompido pelo usuário.")
-        break
-    except Exception as e:
-        logging.error(f"Erro no loop principal: {e}")
-        time.sleep(5)  # Espera 5 segundos antes de continuar o loop
+if __name__ == "__main__":
+    main()
