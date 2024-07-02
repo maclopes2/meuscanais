@@ -31,7 +31,7 @@ page_urls = [
     'https://gtmsport.tv/live-tv/eleven-sport-3-31.html',
     'https://gtmsport.tv/live-tv/sport-tv-1-36.html',
     'https://gtmsport.tv/live-tv/sport-tv-2-37.html',
-    'https://gtmsport.tv/live-tv/sport-tv-3-38.html'
+    'https://gtmsport.tv/live-tv/sport-tv-3-38.html',
     # Adicione mais URLs conforme necessário
 ]
 
