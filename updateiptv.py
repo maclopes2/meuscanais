@@ -39,7 +39,7 @@ page_urls = [
 ]
 
 # Configuração do GitHub
-github_token = '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'
+github_token = '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'
 repo_name = 'maclopes2/meuscanais'  # Formato: usuário/repositório
 file_path = 'teste'  # Caminho completo para o arquivo no repositório
 
