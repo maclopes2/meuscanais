@@ -17,7 +17,7 @@ jobs:
       - name: Configurar ambiente Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.12'  # Especifique a versão do Python necessária
+          python-version: '3.x'  # Especifique a versão do Python necessária
       
       - name: Instalar dependências
         run: |
@@ -28,4 +28,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python updateiptv.py
+          python script.py
