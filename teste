@@ -1,26 +1,3 @@
 #EXTM3U
 #EXTINF:-1,TNT Sports 1
-#EXTINF:-1,TNT Sports 2
-#EXTINF:-1,TNT Sports 3
-#EXTINF:-1,TNT Sports 4
-#EXTINF:-1,Premier Sports 1
-#EXTINF:-1,Premier Sports 2
-#EXTINF:-1,Sky Sports Football
-#EXTINF:-1,Sky Sports EPL
-#EXTINF:-1,Sky Sports Main Event
-#EXTINF:-1,Sky Sports F1
-#EXTINF:-1,FS 1
-#EXTINF:-1,FS 2
-#EXTINF:-1,NFL Network
-#EXTINF:-1,CBS Sports
-#EXTINF:-1,NBA TV
-#EXTINF:-1,Bein Sports 1
-#EXTINF:-1,Bein Sports 2
-#EXTINF:-1,RMC Sport 1
-#EXTINF:-1,RMC Sport 2
-#EXTINF:-1,Eleven Sports 1
-#EXTINF:-1,Eleven Sports 2
-#EXTINF:-1,Eleven Sports 3
-#EXTINF:-1,Sport.TV 1
-#EXTINF:-1,Sport.TV 2
-#EXTINF:-1,Sport.TV 3
+https://popcdn.day/go.php?stream=SPT1
