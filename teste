@@ -1,22 +1,51 @@
 #EXTM3U
-
+#EXTINF:-1,TNT Sports 1
+https://live2.notebulk.xyz/2YhiSzoJ_N26-qA6Fuu1Eg/1719902128/uk_bts1/index.m3u8
+#EXTINF:-1,TNT Sports 2
+https://live2.notebulk.xyz/nPwha4a8nMWQazry3eczQw/1719902130/uk_bts2/index.m3u8
+#EXTINF:-1,TNT Sports 3
+https://live2.notebulk.xyz/COG_maY9tLi3yWkbrh0kJg/1719902133/uk_bts3/index.m3u8
+#EXTINF:-1,TNT Sports 4
+https://live2.notebulk.xyz/Z4Dk0ynzMPUQoARb4S1UZw/1719902135/uk_bts4/index.m3u8
+#EXTINF:-1,Premier Sports 1
+https://live2.notebulk.xyz/8F-z7q5-eGchlue7bk0sdQ/1719902138/uk_premiersports1/index.m3u8
+#EXTINF:-1,Premier Sports 2
+https://live2.notebulk.xyz/80t5-InERgv2t0B35UjT-w/1719902141/uk_premiersports2/index.m3u8
+#EXTINF:-1,Sky Sports Football
+https://live2.notebulk.xyz/k6Vn6osyfTiXpspzwmOSPg/1719902143/uk_ssfb/index.m3u8
+#EXTINF:-1,Sky Sports EPL
+https://live2.notebulk.xyz/pheblXJ3vl3u-iZ1H5URAA/1719902146/uk_ssepl/index.m3u8
+#EXTINF:-1,Sky Sports Main Event
+https://live2.notebulk.xyz/VFpHxX7Oq7P1mzXjYSN8BQ/1719902148/uk_ssmain/index.m3u8
+#EXTINF:-1,Sky Sports F1
+https://us.score806.cc/uk_ssf1/index.m3u8
+#EXTINF:-1,FS 1
+https://live2.notebulk.xyz/IewivHRBuzpWJ_4F1nod2g/1719902152/us_fs1/index.m3u8
+#EXTINF:-1,FS 2
+https://live2.notebulk.xyz/DNZLOfPrt0qwMNd0WeO7Cw/1719902154/us_fs2/index.m3u8
+#EXTINF:-1,NFL Network
+https://live2.notebulk.xyz/YaZxJ4iFPNc5pvWAcH41Iw/1719902157/us_nflnetwork/index.m3u8
+#EXTINF:-1,CBS Sports
+https://live2.notebulk.xyz/Tq3E9aR06h3h_JzG_r5eMw/1719902159/us_cbssportsnetwork/index.m3u8
+#EXTINF:-1,NBA TV
+https://live2.notebulk.xyz/hNXU043FwLE3d0oHRpCqkw/1719902161/us_nbatv/index.m3u8
+#EXTINF:-1,Bein Sports 1
+https://live2.notebulk.xyz/FuVaLccZjRIX2ONrx5ImNQ/1719902164/fr_beinsports1/index.m3u8
+#EXTINF:-1,Bein Sports 2
+https://live2.notebulk.xyz/s9_5OTYPicrxTWlFMslftA/1719902166/fr_beinsports2/index.m3u8
+#EXTINF:-1,RMC Sport 1
+https://live2.notebulk.xyz/6AH_j3_5LscARTJYLkl-TQ/1719902168/fr_rmcsport1/index.m3u8
+#EXTINF:-1,RMC Sport 2
+https://live2.notebulk.xyz/zykCcwDOrCmxzTteUZFtOg/1719902170/fr_rmcsport2/index.m3u8
+#EXTINF:-1,Eleven Sports 1
+https://live2.notebulk.xyz/Uo7T1gVUODSvoXXUnJB8vQ/1719902172/pt_elevensport1/index.m3u8
+#EXTINF:-1,Eleven Sports 2
+https://live2.notebulk.xyz/INThyTIiMUbMVthx-NSdKw/1719902174/pt_elevensport2/index.m3u8
+#EXTINF:-1,Eleven Sports 3
+https://live2.notebulk.xyz/Sig3hB6ojh2Z6DpJdjsFug/1719902176/pt_elevensport3/index.m3u8
 #EXTINF:-1,Sport.TV 1
-https://love2live.wideiptv.top/SPT1/tracks-a1/index.m3u8?token=1c1aec2b61879c5ab22564045a1a1d800d734d41-0f31aca36dde6b32ff0e0713b2441fc6-1719799301-1719788501
-
+https://live2.notebulk.xyz/jfEMIyOVvMtEZa-uje5wnQ/1719902179/pt_sporttv1/index.m3u8
 #EXTINF:-1,Sport.TV 2
-https://love2live.wideiptv.top/SPT2/tracks-a1/index.m3u8?token=8febadf3aa408d3c102158578c3212ba4351e6a0-3d8109c93e274b13136d320326c8831b-1719791614-1719780814
-
+https://live2.notebulk.xyz/shT23itAhpxAxHGJFcPQRg/1719902181/pt_sporttv2/index.m3u8
 #EXTINF:-1,Sport.TV 3
-https://love2live.wideiptv.top/SPT3/tracks-a1/index.m3u8?token=160ecf770f38bd1ac48fa9437278ab4796835f60-e4f136e36be1ca3120c07b51af28ab56-1719791652-1719780852
-
-#EXTINF:-1,Sport.TV 4
-https://love2live.wideiptv.top/SPT4/tracks-a1/index.m3u8?token=ad02d16f656ae423f43ceefb6b3d12cf664815f4-fda3d30fe6fc9c81704ed9979b606a90-1719791677-1719780877
-
-#EXTINF:-1,Sport.TV 5
-https://love2live.wideiptv.top/SPT5/tracks-a1/index.m3u8?token=554c32f22d739794936f8f22ac8a25663b1fd05f-4f164469e39369234f89501b7864a60a-1719791696-1719780896
-
-#EXTINF:-1,Historia
-https://securednode.xyz/HISTORIAPT/tracks-a1/index.m3u8?token=3a2e1e435011649112ce07f0b3d0aa3ea8edefaa-3232ab7f0ca5caa58f90230d2417622d-1719792198-1719781398
-
-#EXTINF:-1,Canal 11
-https://love2live.wideiptv.top/Canal11/tracks-a1/index.m3u8?token=9d2aff6e81ace0ca25c22455ab248f063bd7726e-2af7c728c090c138a8271370a1b4b478-1719792260-1719781460
+https://live2.notebulk.xyz/hahR21DI84oG3Zfmrq2kXA/1719902183/pt_sporttv3/index.m3u8
